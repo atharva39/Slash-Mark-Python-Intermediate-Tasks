@@ -16,7 +16,7 @@ Welcome! This Python script is part of the Slash Mark Python Internship (Interme
 # CLI Version
 The CLI version of the Amigo assistant provides a text-based interface for interacting with the assistant through the command line.
 
-_**File: [amigo-cli.py]([Intermediate-Task-2/amigo-cli.py](https://github.com/atharva39/Slash-Mark-Python-Intermediate-Tasks/blob/83942719d38b8e4918f691e0bc60372e96518dee/Intermediate-Task-2/amigo-cli.py))**_
+_**File: [amigo-cli.py](https://github.com/atharva39/Slash-Mark-Python-Intermediate-Tasks/blob/83942719d38b8e4918f691e0bc60372e96518dee/Intermediate-Task-2/amigo-cli.py)**_
 
 ## Features:
 - Greet the user based on the time of day.

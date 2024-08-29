@@ -16,7 +16,7 @@ Welcome! This Python script is part of the Slash Mark Python Internship (Interme
 # CLI Version
 The CLI version of the Amigo assistant provides a text-based interface for interacting with the assistant through the command line.
 
-_**File: [amigo-cli.py](Intermediate-Task-2/amigo-cli.py)**_
+_**File: [amigo-cli.py]([Intermediate-Task-2/amigo-cli.py](https://github.com/atharva39/Slash-Mark-Python-Intermediate-Tasks/blob/83942719d38b8e4918f691e0bc60372e96518dee/Intermediate-Task-2/amigo-cli.py))**_
 
 ## Features:
 - Greet the user based on the time of day.
@@ -30,7 +30,7 @@ _**File: [amigo-cli.py](Intermediate-Task-2/amigo-cli.py)**_
 # GUI Version
 The GUI version of the Amigo assistant offers a graphical interface with a microphone button to initiate voice commands.
 
-_**File: amigo-gui.py**_
+_**File: [amigo-gui.py](https://github.com/atharva39/Slash-Mark-Python-Intermediate-Tasks/blob/83942719d38b8e4918f691e0bc60372e96518dee/Intermediate-Task-2/amigo-gui.py)**_
 
 ## Features:
 - Provides a user-friendly graphical interface with a microphone button.
@@ -38,14 +38,14 @@ _**File: amigo-gui.py**_
 - Supports the same functionalities as the CLI version.
 
 ## Usage:
-1. Ensure mic_icon.png is present in your working directory.
+1. Ensure [mic_icon.png](https://github.com/atharva39/Slash-Mark-Python-Intermediate-Tasks/blob/83942719d38b8e4918f691e0bc60372e96518dee/Intermediate-Task-2/mic_icon.png) is present in your working directory.
 2. Run the script using Python.
 3. Click the microphone icon to start listening for commands.
 
 ## Installation
 Ensure you have Python 3.12 installed on your system.
 
-Install the required Python packages using the provided requirements.txt file:
+Install the required Python packages using the provided [requirements.txt](https://github.com/atharva39/Slash-Mark-Python-Intermediate-Tasks/blob/83942719d38b8e4918f691e0bc60372e96518dee/Intermediate-Task-2/requirements.txt) file:
 ```
 pip install -r requirements.txt
 ```

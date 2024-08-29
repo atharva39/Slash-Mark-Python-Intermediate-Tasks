@@ -1,6 +1,6 @@
 # Amigo Voice Assistant
 
-Welcome! This Python script is part of the Slash Mark Python Internship (Intermediate: Task 2). This code contains two modified versions of the Amigo assistant: a Command-Line Interface (CLI) version and a Graphical User Interface (GUI) version. Both versions provide a range of functionalities to interact with your system using voice commands.
+This repository contains a Python-based voice assistant application with both a Command-Line Interface (CLI) and a Graphical User Interface (GUI) which I created for Slash Mark Internship Intermediate Task 2 as my project. The assistant can perform various tasks such as searching Wikipedia, opening websites, playing music, and controlling system operations like shutdown, restart, or locking the computer. This code contains two modified versions of the Amigo assistant: a Command-Line Interface (CLI) version and a Graphical User Interface (GUI) version. Both versions provide a range of functionalities to interact with your system using voice commands.
 
 **Note: This code is originally taken from [@jaspreetsidhu3](https://github.com/jaspreetsidhu3/voice_assistant)**
 

@@ -2,5 +2,5 @@
 
 ## Intermediate Tasks
 
-[Task 1]() : Chat Bot
-[Task 2]() : Voice Assistant
+[Task 1]() : Chat Bot  
+[Task 2]() : Voice Assistant  

@@ -13,7 +13,7 @@ KKWBOT is a conversational chatbot designed to provide information about KKWagh 
 ## Installation
 1. Install dependencies from the requirements.txt file using:
 ```
-   pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 2. Download NLTK data: Ensure that the NLTK data is downloaded by running the following in a Python environment:
 ```

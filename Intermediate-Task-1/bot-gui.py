@@ -1,3 +1,5 @@
+# Slash Mark Python Internship (Intermediate: Task 1)
+
 from tkinter import *
 import time
 import pyttsx3

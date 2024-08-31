@@ -1,4 +1,4 @@
-# Meet KKWBOT: your friend
+# Slash Mark Python Internship (Intermediate: Task 1)
 
 import nltk
 import warnings
